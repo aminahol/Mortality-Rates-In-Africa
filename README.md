@@ -66,8 +66,8 @@ Each model grouped countries into three distinct clusters, helping us identify s
 
 ### References
 
-[Dataset] ()
+[Datasets] (https://github.com/aminahol/Mortality-Rates-In-Africa/tree/6f6ec781e8beee0dccc6d98180c99336d762312f/datasets)
 
-[Jupyter Notebook](https://github.com/yourusername/yourrepo/blob/main/filename.ipynb)
+[Jupyter Notebook]([https://github.com/yourusername/yourrepo/blob/main/filename.ipynb](https://github.com/aminahol/Mortality-Rates-In-Africa/blob/6f6ec781e8beee0dccc6d98180c99336d762312f/Mortality%20Rates%20In%20Africa%20(4).ipynb))
 
 [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTIwYmZhNGUtMzFmNy00ZWVlLWJmOGItNGVlMDMxYzNlZDc2IiwidCI6IjEwMWQ0NjY0LTg3OGEtNGUzYi04N2Y3LTc4ZjA4Yjc2MjhiYSJ9)
