@@ -7,6 +7,10 @@ The goal is to identify patterns and underlying factors influencing mortality tr
 
 By examining data on causes of death, population demographics, economic indicators, and healthcare access, the analysis uncovers key insights into mortality variations across Africa. Additionally, K-Means clustering was applied to group countries by their mortality profiles. This helped identify high-risk nations and outliers, providing valuable input for targeted health interventions and informed policy decisions to reduce preventable deaths and improve health outcomes across the continent.
 
+![Mortality in Africa](https://github.com/aminahol/Mortality-Rates-In-Africa/blob/4c3ae3844cc164b0ff7440e0f25634cad1ba21b9/images/Mortality%20In%20Africa.png)
+
+![Trend of Top Causes of Mortality](https://github.com/aminahol/Mortality-Rates-In-Africa/blob/4c3ae3844cc164b0ff7440e0f25634cad1ba21b9/images/Trend%20of%20Top%20Causes%20of%20Mortality.png)
+
 
 
 ## Key Insights & Recommended Actions
@@ -66,8 +70,8 @@ Each model grouped countries into three distinct clusters, helping us identify s
 
 ### References
 
-[Datasets] (https://github.com/aminahol/Mortality-Rates-In-Africa/tree/6f6ec781e8beee0dccc6d98180c99336d762312f/datasets)
+[Datasets](https://github.com/aminahol/Mortality-Rates-In-Africa/tree/6f6ec781e8beee0dccc6d98180c99336d762312f/datasets)
 
-[Jupyter Notebook]([https://github.com/yourusername/yourrepo/blob/main/filename.ipynb](https://github.com/aminahol/Mortality-Rates-In-Africa/blob/6f6ec781e8beee0dccc6d98180c99336d762312f/Mortality%20Rates%20In%20Africa%20(4).ipynb))
+[Jupyter Notebook](https://github.com/aminahol/Mortality-Rates-In-Africa/blob/6f6ec781e8beee0dccc6d98180c99336d762312f/Mortality%20Rates%20In%20Africa%20(4).ipynb)
 
 [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTIwYmZhNGUtMzFmNy00ZWVlLWJmOGItNGVlMDMxYzNlZDc2IiwidCI6IjEwMWQ0NjY0LTg3OGEtNGUzYi04N2Y3LTc4ZjA4Yjc2MjhiYSJ9)
